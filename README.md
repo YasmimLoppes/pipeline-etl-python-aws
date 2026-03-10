@@ -1,6 +1,6 @@
 # Pipeline de ETL: Automação de Dados com Python & AWS S3
 
-Este projeto demonstra a automação de um pipeline de Engenharia de Dados, realizando o tratamento de arquivos CSV e a persistência em nuvem.
+☁️ Automação de pipeline ETL utilizando Python (Pandas) para tratamento de dados e carga em nuvem via AWS S3.
 
 ### 🛠️ Tecnologias
 * *Linguagem*: Python (Pandas)
